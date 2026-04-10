@@ -1,5 +1,5 @@
 # Parallax Website Project
-Live Link: https://vercel.com/ambreesh-singh/parallex-website-project/3vR177LqEfbjgvX6cTHw9NRvZo4z
+Live Link: parallex-website-project-theta.vercel.app
 
 Simple parallax scrolling website made using **HTML** and **Advanced CSS**.
 
